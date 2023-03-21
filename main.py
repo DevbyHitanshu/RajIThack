@@ -1,15 +1,16 @@
 
 # import
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 
 
 # create server
 server = Flask(__name__)
 
 # configure
-@server.get("/search/<query>")
-def home(query):
+@server.get("/search")
+def home():
     results = [1,2,3]
+    query = request.form[]
     return render_template("home.html", context={"results": results})
 
 # start
