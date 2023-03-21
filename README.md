@@ -1,4 +1,7 @@
-# RajIThack
+
+![WhatsApp Image 2023-03-18 at 11 53 52](https://user-images.githubusercontent.com/82142095/226517702-121e7d72-0a86-4bdb-9dfa-02f6764771ed.jpg)
+
+#RajIThack
 Develop solutions that improve the quality of education and learning outcomes, such as personalized learning, online learning platforms, gamification, and accessibility.
 
 #Problem Statement
