@@ -1,6 +1,7 @@
-
-![WhatsApp Image 2023-03-18 at 11 53 52](https://user-images.githubusercontent.com/82142095/226517702-121e7d72-0a86-4bdb-9dfa-02f6764771ed.jpg)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82142095/226517702-121e7d72-0a86-4bdb-9dfa-02f6764771ed.jpg" width="400" alt="Teach Me Platform">
+  <img src="https://user-images.githubusercontent.com/82142095/226517251-f2d35628-163a-4019-b3af-feadc2538479.png" width="400" alt="Teach Me Platform Logo">
+</p>
 
 # Teach Me - AI-Powered Personalized Learning Platform
 
@@ -51,5 +52,3 @@ No more manual note-taking struggles! Teach Me offers a seamless speech-to-text 
   - Knowledge graph technology ensures that the information is presented in a structured and comprehensive manner.
 
 #RajIThack #TeachMe #PersonalizedLearning #AIinEducation
-
-![image](https://user-images.githubusercontent.com/82142095/226517251-f2d35628-163a-4019-b3af-feadc2538479.png)
